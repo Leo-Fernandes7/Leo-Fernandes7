@@ -38,10 +38,11 @@ O projeto foi pensado para ambientes físicos, facilitando o acesso rápido a in
 
 🔗 Acesse:
 https://leo-fernandes7.github.io/totem-senac-Pel/toten.html
+
 https://leo-fernandes7.github.io/toten/toten.html
 
 
-### 🍔 Site de Hamburgueria (em desenvolvimento)
+Site de Hamburgueria (em desenvolvimento)
 Desenvolvimento de site para hamburgueria com foco em presença digital e apresentação de produtos.
 
 O projeto está sendo desenvolvido com foco em layout moderno, organização do cardápio e experiência do usuário.
